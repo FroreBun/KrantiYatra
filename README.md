@@ -15,12 +15,13 @@ Users view the dashboard in their browser via localhost, and download key datase
 ---
 
 ## Quick Start
-- it clone https://github.com/FroreBun/KrantiYatra/new/main?filename=README.md
-- cd ~/KrantiYatra
-- chmod +x trans_monitor.sh
-- ./trans_monitor.sh run to run
-- ./trans_monitor.sh serve to host website in localhost:8000
-- ./trans_monitor.sh clean to clean up the data in local user directory
+
+- clone repo ```git clone https://github.com/FroreBun/KrantiYatra/new/main?filename=README.md```
+- go to the clone directory ```cd ~/KrantiYatra```
+- give user permission for the program ```chmod +x trans_monitor.sh```
+- ```./trans_monitor.sh run to run```
+- ```./trans_monitor.sh serve``` to host website in localhost:8000
+- ```./trans_monitor.sh clean``` to clean up the data in local user directory
 
 
 ---
