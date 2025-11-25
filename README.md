@@ -39,7 +39,7 @@ Users view the dashboard in their browser via localhost, and download key datase
 ---
 
 ## File Structure
-
+```
 $PROJECT_ROOT
 ├─ train_monitor.sh # Main script
 ├─ README.md # Project info
@@ -48,7 +48,7 @@ $PROJECT_ROOT
 │ ├─ reports/ # Dashboards and CSV reports (HTML/CSV only)
 │ ├─ logs/ # Operation logs
 │ └─ archive/ # Old logs/reports (archived)
-
+```
 
 ## Requirements
 
