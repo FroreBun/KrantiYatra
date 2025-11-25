@@ -15,7 +15,7 @@ Users view the dashboard in their browser via localhost, and download key datase
 ---
 
 ## Quick Start
-git clone https://github.com/FroreBun/KrantiYatra/new/main?filename=README.md
-cd ~/KrantiYatra
-chmod +x trans_monitor.sh
+- 'it clone https://github.com/FroreBun/KrantiYatra/new/main?filename=README.md'
+- 'cd ~/KrantiYatra'
+- 'chmod +x trans_monitor.sh'
 
